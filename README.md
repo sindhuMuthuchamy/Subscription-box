@@ -1,2 +1,11 @@
 # Subscription-box
-Subscription Box
+Subscription Box coding for beginner level.
+
+## Technologies used
+HTML
+
+CSS
+
+CSS Flex
+## 
+
